@@ -1,7 +1,7 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacionPromedio
-CO1,La casa de papel,Serie,Suspenso,3000,2017,4.8
-CO2,Stranger Things,Serie,Ciencia ficción,2800,2016,4.5
-CO3,Dark,Serie,Misterio,2400,2017,4.6
+CO1,La casa de papel,Episodio,Suspenso,3000,2017,4.8
+CO2,Stranger Things,Episodio,Ciencia ficción,2800,2016,4.5
+CO3,Dark,Episodio,Misterio,2400,2017,4.6
 CO4,Breaking Bad,Serie,Drama,3000,2008,4.9
 CO5,The Crown,Serie,Histórica,2600,2016,4.2
 CO6,Inception,Película,Ciencia ficción,148,2010,4.8
