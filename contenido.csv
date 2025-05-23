@@ -1,16 +1,16 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacionPromedio
-CO1,La perdida,Episodio,Suspenso,3000,2017,4.8
-CO2,Epilogo,Episodio,Ciencia ficción,2800,2016,4.5
-CO3,Dark,Episodio,Misterio,2400,2017,4.6
-CO4,Breaking Bad,Serie,Drama,3000,2008,4.9
-CO5,The Crown,Serie,Histórica,2600,2016,4.2
-CO6,Inception,Película,Ciencia ficción,148,2010,4.8
-CO7,El Padrino,Película,Crimen,175,1972,4.9
-CO8,Parásitos,Película,Drama,132,2019,4.6
-CO9,Forrest Gump,Película,Comedia dramática,142,1994,4.7
-CO10,Interstellar,Película,Ciencia ficción,169,2014,4.8
-CO11,El comienzo,Episodio,Primer episodio de la serie,60,2017,4.1
-CO12,Oscuridad,Episodio,El pasado se revela,55,2017,4.3
-CO13,La huida,Episodio,Los protagonistas escapan,58,2017,4.4
-CO14,El enfrentamiento,Episodio,Batalla clave entre personajes,62,2017,4.5
-CO15,La decisión,Episodio,Un giro inesperado cambia todo,57,2017,4.6
+C01,La perdida,Episodio,Suspenso,3000,2017,4.8
+C02,Epilogo,Episodio,Ciencia ficción,2800,2016,4.5
+C03,Dark,Episodio,Misterio,2400,2017,4.6
+C04,Breaking Bad,Serie,Drama,3000,2008,4.9
+C05,The Crown,Serie,Histórica,2600,2016,4.2
+C06,Inception,Película,Ciencia ficción,148,2010,4.8
+C07,El Padrino,Película,Crimen,175,1972,4.9
+C08,Parásitos,Película,Drama,132,2019,4.6
+C09,Forrest Gump,Película,Comedia dramática,142,1994,4.7
+C10,Interstellar,Película,Ciencia ficción,169,2014,4.8
+C11,El comienzo,Episodio,Primer episodio de la serie,60,2017,4.1
+C12,Oscuridad,Episodio,El pasado se revela,55,2017,4.3
+C13,La huida,Episodio,Los protagonistas escapan,58,2017,4.4
+C14,El enfrentamiento,Episodio,Batalla clave entre personajes,62,2017,4.5
+C15,La decisión,Episodio,Un giro inesperado cambia todo,57,2017,4.6
