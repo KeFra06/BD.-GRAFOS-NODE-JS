@@ -1,4 +1,4 @@
-usuariold,nombre,edad,sexo,email,fechaNacimiento
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
 U01,Juan Pérez,28,M,juan.perez@gmail.com,1995-03-15
 U02,María Gómez,34,F,maria.gomez@gmail.com,1989-07-22
 U03,Carlos López,25,M,carlos.lopez@gmail.com,1998-11-10
