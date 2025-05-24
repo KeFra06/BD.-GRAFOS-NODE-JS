@@ -1,21 +1,7 @@
 codigo,nombre,descripcion
-G01,Acción,Género con escenas de combate y alta adrenalina
-G02,Drama,Género centrado en historias emocionales y humanas
-G03,Terror,Género que busca generar miedo y suspense
-G04,Comedia,Género diseñado para entretener con humor
-G05,Ciencia ficción,Género con elementos futuristas y tecnológicos
-G06,Suspenso,Género que mantiene al espectador en tensión
-G07,Crimen,Género basado en investigaciones y delitos
-G08,Aventura,Género con exploración y desafíos
-G09,Romance,Género centrado en relaciones amorosas
-G10,Fantasía,Género con elementos mágicos e imaginarios
-G11,Animación,Género para contenido animado
-G12,Documental,Género basado en hechos reales
-G13,Musical,Género con énfasis en canciones y danza
-G14,Misterio,Género que involucra enigmas y secretos
-G15,Bélico,Género centrado en conflictos armados
-G16,Histórico,Género basado en eventos del pasado
-G17,Familia,Género apto para todo público
-G18,Thriller,Género de suspense intenso
-G19,Western,Género ambientado en el Viejo Oeste
-G20,Biográfico,Género basado en la vida de personas reales
+AC,Acción,Contenido lleno de acción y aventura.
+DR,Drama,Contenido con tramas profundas y emotivas.
+TI,Terror,Contenidos que buscan generar miedo y tensión.
+CO,Comedia,Contenido que busca entretener y divertir.
+SF,Ciencia Ficción,Contenidos futuristas y de ciencia ficción.
+RM,Romance,Historias de amor y relaciones sentimentales.
