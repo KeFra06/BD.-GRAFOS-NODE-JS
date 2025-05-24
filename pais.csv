@@ -1,21 +1,9 @@
 codigo,nombre
-P01,Colombia
-P02,México
-P03,España
-P04,Estados Unidos
-P05,Argentina
-P06,Brasil
-P07,Chile
-P08,Perú
-P09,Ecuador
-P10,Venezuela
-P11,Uruguay
-P12,Paraguay
-P13,Bolivia
-P14,Costa Rica
-P15,Panamá
-P16,Guatemala
-P17,Honduras
-P18,El Salvador
-P19,Nicaragua
-P20,República Dominicana
+US,Estados Unidos
+MX,México
+CO,Colombia
+ES,España
+AR,Argentina
+BR,Brasil
+CR,Costa Rica
+CA,Canadá
