@@ -1,16 +1,22 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacionPromedio
-C01,La perdida,Episodio,Suspenso,3000,2017,4.8
-C02,Epilogo,Episodio,Ciencia ficción,2800,2016,4.5
-C03,Dark,Episodio,Misterio,2400,2017,4.6
-C04,Breaking Bad,Serie,Drama,3000,2008,4.9
-C05,The Crown,Serie,Histórica,2600,2016,4.2
-C06,Inception,Película,Ciencia ficción,148,2010,4.8
-C07,El Padrino,Película,Crimen,175,1972,4.9
-C08,Parásitos,Película,Drama,132,2019,4.6
-C09,Forrest Gump,Película,Comedia dramática,142,1994,4.7
-C10,Interstellar,Película,Ciencia ficción,169,2014,4.8
-C11,El comienzo,Episodio,Primer episodio de la serie,60,2017,4.1
-C12,Oscuridad,Episodio,El pasado se revela,55,2017,4.3
-C13,La huida,Episodio,Los protagonistas escapan,58,2017,4.4
-C14,El enfrentamiento,Episodio,Batalla clave entre personajes,62,2017,4.5
-C15,La decisión,Episodio,Un giro inesperado cambia todo,57,2017,4.6
+C01,Acción Explosiva,Película,Una película de acción trepidante.,120,2020-05-10,4.5
+C02,Drama Profundo,Película,Un drama que explora emociones intensas.,110,2021-03-15,4.0
+C03,Comedia Divertida,Película,Una comedia para disfrutar en familia.,95,2019-07-20,4.2
+C04,Terror en la Noche,Película,Una experiencia de terror que inquieta.,100,2018-10-31,3.8
+C05,Romance Inesperado,Película,Una historia de amor que sorprende.,105,2022-02-14,4.3
+C06,Serie Épica,Serie,Una serie que narra hazañas legendarias.,45,2019-09-24,4.2
+C07,Serie Misteriosa,Serie,Una serie llena de enigmas y suspenso.,50,2022-01-01,4.7
+C08,Sci-Fi Chronicles,Serie,Una saga futurista y llena de acción.,55,2020-09-10,4.4
+C09,Episodio 1: El Comienzo,Episodio,Primer episodio de Serie Épica.,50,2019-09-24,4.1
+C10,Episodio 2: La Continuación,Episodio,Segundo episodio con más acción.,50,2019-10-01,4.3
+C11,Episodio 3: La Conclusión,Episodio,Final épico de la serie.,50,2019-10-08,4.6
+C12,Episodio 1: El Enigma,Episodio,Inicio del misterio en Serie Misteriosa.,45,2022-01-01,4.6
+C13,Episodio 2: La Revelación,Episodio,El misterio se va aclarando.,45,2022-01-08,4.7
+C14,Episodio 1: El Despertar,Episodio,Primer episodio de Sci-Fi Chronicles.,55,2020-09-10,4.5
+C15,Episodio 2: El Viaje,Episodio,La aventura continúa en el espacio.,55,2020-09-17,4.4
+C16,Episodio 3: El Conflicto,Episodio,El clímax de la serie futurista.,55,2020-09-24,4.3
+C17,Documental Inspirador,Película,Historias de superación y logros personales.,90,2021-06-05,4.8
+C18,Comedia Romántica,Película,Una mezcla de humor y romance moderno.,100,2021-10-10,4.0
+C19,Historias Urbanas,Serie,Relatos dramáticos ambientados en la ciudad.,40,2020-11-11,4.1
+C20,Episodio 1: La Ciudad,Episodio,Retrato de la vida urbana.,40,2020-11-11,4.1
+C21,Episodio 2: Los Rascacielos,Episodio,Continuación de historias urbanas.,40,2020-11-18,4.2
